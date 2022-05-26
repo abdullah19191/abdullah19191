@@ -32,7 +32,7 @@
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am a passionate and self-taught Flutter Developer.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
