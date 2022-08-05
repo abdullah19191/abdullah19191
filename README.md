@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=abdullah91910&style=flat-square&color=blue" alt=""/>
 <div>
   <h1>
-  Welcome TO My <spna>DEV</span> WOrLd
+  Hello World I'm Abdullah-aka <span class="bolded">CODE DEMON</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
