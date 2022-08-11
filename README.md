@@ -29,8 +29,7 @@
 - :seedling: I am a passionate and self-taught Flutter Developer and thrieving to become  React Js and BlockChain Developer!.
 
 - :zap: In my free time, I like solve problems on Hackerthon and read  articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](www.linkedin.com/in/abdullah-rashid-42411822b?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abdullah-rashid-42411822b)
+    
 ### :hammer_and_wrench: Languages and Tools :
 </div>
   <div>
