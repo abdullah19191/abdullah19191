@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I like solve problems on Hackerthon and read  articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abdullah-rashid-42411822b)
 ### :hammer_and_wrench: Languages and Tools :
 </div>
   <div>
