@@ -4,7 +4,7 @@
 
 
 <div id="badges"align="center">
-  <a href="www.linkedin.com/in/abdullah-rashid-42411822b">
+  <a href="https://www.linkedin.com/in/abdullah-bin-rashid-42411822b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
