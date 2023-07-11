@@ -21,14 +21,25 @@
   <div id="About Me"align="start">
 
 ### :man_technologist: About Me :
-  I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+  I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
   
   
-- :telescope: I haved worked as a Junior Flutter Developer and contributing to frontend for building web applications.
+- :telescope: I haved worked as a Junior Flutter Developer and MERN also, contributing to frontend & backend for building mobile/web applications.As an aspiring AI/ML or 
+             Data Science engineer, I am dedicated to honing my skills and knowledge in these cutting-edge fields. I actively contribute to projects on platforms like 
+             GitHub, showcasing my passion and commitment to becoming proficient in AI and Data Science. My GitHub repository demonstrates my ongoing journey in exploring 
+             and implementing various AI/ML algorithms, data analysis techniques, and innovative solutions.
 
-- :seedling: I am a passionate and self-taught Flutter Developer and thrieving to become  React Js and BlockChain Developer!.
+- 🛰️: I continually seek opportunities to expand my expertise by participating in online courses, attending workshops, and engaging in self-study. By leveraging resources 
+       such as online platforms, research papers, and tutorials, I stay up-to-date with the latest advancements in AI, ML, and Data Science.
+  
+- :seedling: I am a passionate and self-taught Software Developer and thrieving to become AI/ML or DataScienc Engineer!.
+
+- 🎨:My projects, including the VoiceVision Voice Assistant App with ChatGPT and Dall-E AI Image Generation, exemplify my practical application of AI and ML techniques. 
+     These projects showcase my proficiency in natural language processing, image synthesis, and the implementation of state-of-the-art AI models. They reflect my 
+     dedication to becoming an AI/ML or Data Science engineer and my ability to work on projects that bridge the gap between theory and practical application.
 
 - :zap: In my free time, I like solve problems on Hackerthon and read  articles.
+
     
 ### :hammer_and_wrench: Languages and Tools :
 </div>
